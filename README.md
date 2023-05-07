@@ -1,3 +1,6 @@
 # Super-Store-Project
-With growing demands and cut-throat competitions in the market, a Superstore Giant is seeking your knowledge in understanding what works best for them. They would like to understand which products, regions, categories and customer segments they should target or avoid.
-Retail dataset of a global superstore for 4 years.
+I Did one of the Most Important Projects for Super Store, an online multinational platform.
+I used Excel to completely clean the data, ask the most important questions, and answer them through EDA As Report.
+I used Python for Data Wrangling, Exploratory Data Analysis, and EDA Conclusion. To help the organization make decisions on accurate data.
+I created an interactive Excel dashboard through which I was able to reach decisions and advice that increase profit by more than 15% and reduce costs significantly.
+
